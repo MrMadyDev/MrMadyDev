@@ -8,5 +8,5 @@ If you want to support my work, you can rate my GitHub projects how you like, an
 ## ¿What is my strength?
 - **Frontend** Web Application using frameworks (React, Vue).
 - **Backend** Web Development using **php**, and frameworks (ExpressJS with Node)
-- **Desktop** Applications with JavaFX
+- **Desktop** Applications with JavaFX, Tauri, WinUI3
 
